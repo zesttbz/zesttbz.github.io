@@ -3,7 +3,17 @@
   outline: none;
 }
 
-body, html {
+html {
+  margin: 0;
+  background: #585858;
+  font-family: "Ubuntu", "微軟正黑體", sans-serif;
+  letter-spacing: 0.65px;
+  font-size: 15px;
+  color: #555;
+  cursor: default;
+}
+
+body {
   margin: 0;
   background: #eee;
   font-family: "Ubuntu", "微軟正黑體", sans-serif;
