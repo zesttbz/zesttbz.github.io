@@ -45,7 +45,7 @@ h3 {
   content: "";
   width: 100%;
   height: 6px;
-  background: #A4A4A4;
+  background: #848484;
   position: absolute;
   bottom: 0;
   left: 0;
@@ -71,7 +71,7 @@ h3 {
   background: rgba(238, 238, 238, 0.6);
 }
 .resume .base .profile {
-  background: #A4A4A4;
+  background: #848484;
   padding: 30px 15px 5px 15px;
   margin: -30px -15px 45px -15px;
   position: relative;
@@ -80,7 +80,7 @@ h3 {
 .resume .base .profile::after {
   content: "";
   position: absolute;
-  background: #A4A4A4;
+  background: #848484;
   width: 100%;
   height: 30px;
   bottom: -15px;
@@ -115,7 +115,7 @@ h3 {
   color: #e07a5f;
 }
 .resume .base .contact div i {
-  color: #A4A4A4;
+  color: #848484;
   width: 20px;
   height: 20px;
   font-size: 20px;
@@ -155,7 +155,7 @@ h3 {
 .resume .base .follow .box i {
   display: inline-block;
   font-size: 30px;
-  background: #A4A4A4;
+  background: #848484;
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -192,7 +192,7 @@ h3 {
 }
 .resume .func h3 i {
   color: #fcfcfc;
-  background: #A4A4A4;
+  background: #848484;
   width: 42px;
   height: 42px;
   font-size: 20px;
@@ -305,8 +305,8 @@ h3 {
   position: absolute;
   top: -1px;
   height: 4px;
-  background: #A4A4A4;
-  box-shadow: 0 0 0 #A4A4A4;
+  background: #848484;
+  box-shadow: 0 0 0 #848484;
   border-radius: 5px;
 }
 .resume .func .skills-soft ul {
@@ -335,7 +335,7 @@ h3 {
 }
 .resume .func .skills-soft ul li svg .cbar {
   stroke-width: 3px;
-  stroke: #A4A4A4;
+  stroke: #848484;
   stroke-linecap: round;
 }
 .resume .func .skills-soft ul li span, .resume .func .skills-soft ul li small {
@@ -374,7 +374,7 @@ h3 {
   width: 60px;
   height: 60px;
   line-height: 60px;
-  color: #A4A4A4;
+  color: #848484;
   transition-duration: 0.3s;
 }
 .resume .func .interests-items div i.guitar {
@@ -385,7 +385,7 @@ h3 {
   width: 50px;
   height: 50px;
   margin-top: 5px;
-  fill: #A4A4A4;
+  fill: #848484;
 }
 .resume .func .interests-items div span {
   display: block;
